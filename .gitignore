@@ -1,0 +1,4 @@
+*.classpath
+*.project
+sudi.practice/.settings/
+sudi.practice/target/classes/
